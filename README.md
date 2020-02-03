@@ -1,2 +1,2 @@
 # my-projects
-Programs in java, python, JavaScript, node.js
+Programs in Java, Python, JavaScript, Node.js
